@@ -55,9 +55,10 @@ width:50%;
   font-weight: bold;
 }
 #dwelltwo{
-  font-family: 'Open Sans'
-  line-height: 25px;
+  font-family: 'Open Sans';
   color:white;
+  line-height: 30px;
+  font-size: 20px;
 }
 .sample{
   color:white;
