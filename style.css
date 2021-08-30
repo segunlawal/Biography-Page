@@ -66,6 +66,8 @@ width:50%;
 }
 #wedi{
   font-size:50px;
+    padding:0 25% 0 25%;
+
 }
 .rightdiv{
   display: table-cell;
