@@ -8,6 +8,11 @@ body{
   height:400px;
   border-radius: 50%;
 }
+#profileimgee{
+  width:200px;
+  height:200px;
+  border-radius: 50%;
+}
 .headercontent{
 padding:0% 25% 0% 25%;
 }
@@ -141,13 +146,24 @@ font-family: 'Open Sans';
 }
 #loca{
   font-family: 'Open Sans';
+  margin-bottom: -20px;
+  margin-top: -20px;
+
 }
 .rock{
   font-family: 'Open Sans';
   color:white;
   line-height: 20px;
+  margin-bottom: 30px;
+
 }
 #foot{
   color:white;
   line-height:30px;
+}
+#phonenum{
+  color:white;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size:25px;
 }
