@@ -89,6 +89,7 @@ width:50%;
   border: 1px solid #f7d7c8;
   padding:5px;
   margin:20px;
+
 }
 .theimages img{
   border-radius: 20%;
@@ -103,13 +104,19 @@ gap:50px;
 }
 .otherleftdiv{
 display: table-cell;
+line-height: 30px;
+font-family: 'Open Sans';
 }
 .otherrightdiv{
   display: table-cell;
-
+  line-height: 30px;
+  font-family: 'Open Sans';
 }
 #qwe, #asd, #zxc{
   text-align: left;
+}
+#asd, #zxc{
+  color:white;
 }
 .contact{
   display:flex;
