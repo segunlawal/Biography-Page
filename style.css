@@ -115,7 +115,6 @@ font-family: 'Open Sans';
 #qwe, #asd, #zxc{
   text-align: left;
   font-family: 'Open Sans';
-
 }
 #asd, #zxc{
   color:white;
@@ -139,4 +138,16 @@ font-family: 'Open Sans';
 }
 #wedi{
   padding:0 25% 0 25%;
+}
+#loca{
+  font-family: 'Open Sans';
+}
+.rock{
+  font-family: 'Open Sans';
+  color:white;
+  line-height: 20px;
+}
+#foot{
+  color:white;
+  line-height:30px;
 }
