@@ -114,6 +114,8 @@ font-family: 'Open Sans';
 }
 #qwe, #asd, #zxc{
   text-align: left;
+  font-family: 'Open Sans';
+
 }
 #asd, #zxc{
   color:white;
