@@ -30,8 +30,9 @@ color:#999999;
 }
 .thedivs{
 display: flex;
-/* justify-content: space-between; */
-/* padding:0 100px 0 100px; */
+padding-left: 50px;
+padding-right: 50px;
+gap: 50px;
 }
 .leftdiv{
 width:50%;
