@@ -58,7 +58,7 @@ width:50%;
   line-height: 25px;
   color:white;
 }
-.sample-headline{
+.sample, .headline{
   color:white;
   letter-spacing: 2px;
   font-weight:bold;
