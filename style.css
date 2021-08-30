@@ -58,7 +58,14 @@ width:50%;
   line-height: 25px;
   color:white;
 }
-.sample, .headline{
+.sample{
+  color:white;
+  letter-spacing: 2px;
+  font-weight:bold;
+  font-family: 'Open Sans';
+  margin-bottom: -60px;
+}
+.headline{
   color:white;
   letter-spacing: 2px;
   font-weight:bold;
