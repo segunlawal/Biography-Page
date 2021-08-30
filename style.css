@@ -30,8 +30,8 @@ color:#999999;
 }
 .thedivs{
 display: flex;
-padding-left: 50px;
-padding-right: 50px;
+padding-left: 150px;
+padding-right: 150px;
 gap: 50px;
 }
 .leftdiv{
