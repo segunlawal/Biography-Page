@@ -129,6 +129,7 @@ font-family: 'Open Sans';
 }
 #asd, #zxc{
   color:white;
+  line-height: 30px;
 }
 .contact{
   display:flex;
