@@ -116,6 +116,12 @@ width:50%;
   font-weight:bold;
   font-size:22px;
 }
+#chatnow{
+  font-family: 'Open Sans';
+  color:white;
+  font-weight:bold;
+  font-size: 20px;
+}
 .theotherdivs{
   display: flex;
 justify-content: space-between;
