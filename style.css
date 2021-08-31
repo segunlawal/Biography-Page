@@ -108,6 +108,11 @@ width:50%;
   width:300px;
   max-height: 300px;
 }
+#port{
+  font-family:'Open Sans';
+  font-weight:bold; 
+  font-size:22px;
+}
 .theotherdivs{
   display: flex;
 justify-content: space-between;
