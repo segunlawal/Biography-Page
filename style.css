@@ -41,8 +41,6 @@ display: flex;
 padding-left: 150px;
 padding-right: 150px;
 gap: 75px;
-/* justify-content: space-between; */
-/* padding:0 100px 0 100px; */
 }
 .leftdiv{
 width:50%;
@@ -67,6 +65,12 @@ width:50%;
   color:white;
   line-height: 30px;
   font-size: 20px;
+}
+.whatsapp{
+  width: 30px;
+  height: 30px;
+  margin-top: 35px;
+  background-color: #fff;
 }
 .sample{
   color:white;
@@ -107,7 +111,7 @@ width:50%;
 .theimages img{
   border-radius: 20%;
   width:300px;
-  max-height: 300px;
+  height: 300px;
   padding-right:40px;
 }
 
